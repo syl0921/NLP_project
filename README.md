@@ -7,7 +7,7 @@
 Purpose of this project
 ====================
 1. To understand how to process Nature Language on Artificial intelligence, especially Tensorflow or keras (Like zero-padding, integer encoding, ...)
-2. To understand Count-based word representations($e.g.$ BoW, TF-IDF) and word embeddings($e.g.$ Skip n-gram, Negative sampling), and can explain the difference between aboves.
+2. To understand Count-based word representations( $e.g.$ BoW, TF-IDF) and word embeddings( $e.g.$ Skip n-gram, Negative sampling), and can explain the difference between aboves.
 3. To implement sequential model like RNN, LSTM, and Transformers or data visualization
 4. To acquire basic knowledge that there is no problem in reading papers on NLP and models based on it
 
