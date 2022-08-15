@@ -1,5 +1,5 @@
 # NLP_project
-=============
+
 * It is a repository created for the Boaz association's mini-project.
 * The project will continue until Sept. 1
 * Final goal is to infer the MBTI based on the written characteristics of a person.
