@@ -29,5 +29,4 @@ Notice
 Events
 ======
 * 08/14
-  * 10PM: First meeting
-    * [Link](https://few-geranium-eac.notion.site/2022-08-14-e8cb0fa4c2ce4b60aa343f35db7fe77e)
+  * 10PM: First meeting [Link](https://few-geranium-eac.notion.site/2022-08-14-e8cb0fa4c2ce4b60aa343f35db7fe77e)
